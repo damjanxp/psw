@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+*.slnx
+*.user
+*.suo
+
+# VS cache
+FileContentIndex/
+WorkspaceState.json
