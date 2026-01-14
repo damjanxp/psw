@@ -11,8 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\TourApp.Application\TourApp.Application\TourApp.Application.csproj" />
-    <ProjectReference Include="..\..\TourApp.Infrastructure\TourApp.Infrastructure\TourApp.Infrastructure.csproj" />
+
+    <ProjectReference Include="..\TourApp.Application\TourApp.Application.csproj" />
+    <ProjectReference Include="..\TourApp.Infrastructure\TourApp.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

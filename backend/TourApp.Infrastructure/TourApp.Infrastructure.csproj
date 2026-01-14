@@ -7,8 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\TourApp.Application\TourApp.Application\TourApp.Application.csproj" />
-    <ProjectReference Include="..\..\TourApp.Domain\TourApp.Domain\TourApp.Domain.csproj" />
+
+    <ProjectReference Include="..\TourApp.Application\TourApp.Application.csproj" />
+    <ProjectReference Include="..\TourApp.Domain\TourApp.Domain.csproj" />
   </ItemGroup>
 
 </Project>
